@@ -10,7 +10,7 @@ Website: [nextappz.com/mathz](https://nextappz.com/mathz)
 
 ## Features
 
-### 🧮 Basic Calculator
+### Basic Calculator
 - Standard arithmetic operations (+, -, ×, ÷)
 - Decimal point support
 - Clear and backspace functions
